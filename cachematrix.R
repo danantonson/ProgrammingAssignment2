@@ -1,4 +1,4 @@
-## This is the code for Coursera Assignment 2. 
+## This is the code for Coursera Assignment 2  
 ## The goal is to cache a matrix with a function, and 'solve' the matrix with another function
 
 ## makeCacheMatrix creates the initial cache of the matrix. 
